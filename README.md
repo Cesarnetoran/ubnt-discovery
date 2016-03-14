@@ -5,14 +5,14 @@
 
 
 
-1. Requirements
+1 Requirements
 
 - Linux OS
 - X server
 - OpenJDK Runtime Environment
 - sudo
 
-2. Installation
+2 Installation
 
 Create ubnt directory under /opt
     mkdir /opt/ubnt
@@ -36,6 +36,6 @@ Check if PATCH contains '/usr/bin'
 
     echo "$PATH"|grep -q /usr/bin && echo "OK - /usr/bin found"
 
-3. Running UBNT discovery tool
+3 Running UBNT discovery tool
 
 run 'ubnt-discovery'
