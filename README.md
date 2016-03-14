@@ -1,13 +1,9 @@
 # ubnt-discovery
+#
+# UBNT Discovery tool for linux
+# www.github.com/sunblade/ubnt-discovery
 
-#################################################
-#						#
-#	  UBNT Discovery tool for linux		#
-#						#
-#  2016 sunblade				#
-#  www.github.com/sunblade/ubnt-discovery	#
-#						#
-#################################################
+
 
 1. Requirements
 
